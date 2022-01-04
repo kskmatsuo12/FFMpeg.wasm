@@ -1,0 +1,11 @@
+.source_wrap {
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.source_wrap video {
+  height: 100px;
+  width: 200px;
+  object-fit: cover;
+}
